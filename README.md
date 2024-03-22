@@ -7,7 +7,7 @@ I am a full stack web software developer
 I code web apps using React.js and various frameworks. I have experience with Databases such as MongoDB, PostgreSQL, and SQL (T-SQL). I also enjoy basketball, working out, and reading.
 
 * 🌍  I'm based in New York City, NY
-* 🖥️  See my portfolio at [calvieTech](http://cthang.dev.com)
+* 🖥️  See my portfolio at [calvieTech](https://cthang.dev)
 * ✉️  You can contact me at [cthang94@calvietech.com](mailto:calvinukthang@gmail.com)
 * 🚀  I'm currently working on [Sneakery - a full-stack CRUD app for sneakerFans](http://cthang.dev/sneakery)
 * 🧠  I'm learning Authorization and Authentication for User Accounts.
